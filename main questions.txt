@@ -1,0 +1,28 @@
+1 High Level question
+- How many times the World cup have been held?
+- How many teams have ever participated in the world cup?
+- How many teams have ever won the world cup?
+- Which team won most world cup titles?
+- Which team paricipated in world cup most frequently?
+- Who scored the most goals in WC 2022 X
+- Average age of player in WC 2022
+- Which team has the most newbies in their team in WC 2022?
+- Which team has the most veterans in ther team in WC 2022?
+- Which team has the most players playing in foreign football clubs in WC 2022?
+- Which team has the most players playing in domestic football clubs in WC 2022?
+- How many teams has won the Wolrd Cup when they are the host?
+2 Time-based question
+- Which month was World Cup started held most frequently?
+- Which month was Wolrd Cup final matches held most frequently
+- How long have it been since the first Wolrd Cup?
+3 Category-based question
+- 
+- Number of matches by total scored goals 
+- Number of matches by with/without penalties round
+- Number of matches by goal differences
+- Age distribution in WC 2022
+- Average age by teams in WC 2022 
+- Top 10 team with highest positive in all time
+- Top 10 team scoring the most goals in all time
+- Top 10 players scoring the most goals in all time
+
